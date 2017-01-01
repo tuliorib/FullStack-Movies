@@ -21,7 +21,7 @@ The project was writen in Python 2.7.
 
 ## Using the Application
 1. Clone or download this repository to your computer.
-2. Run the "entertainment_center.py" file.
-4. Once the program has finished running, a file named "fresh_tomatoes88.html" should be written to the directory you ran the "entertainment_center" program from.
+2. Run  "entertainment_center.py" file.
+4. Once the program has finished running, a file named "fresh_tomatoes88.html" will be written to the directory you ran the "entertainment_center" program from.
 5. Open "fresh_tomatoes88.html" and enjoy the posters and trailers of the 88th Academy Awards Best Picture Nominees.
  
